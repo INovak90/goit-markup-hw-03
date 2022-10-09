@@ -47,7 +47,7 @@ img {
   border-bottom: 1px solid var(--frame-header);
   background-color: var(--primary-white-color);
 }
-.container.header {
+.container.header-box {
   display: flex;
   align-items: center;
 }
@@ -348,10 +348,7 @@ border-top: none;
   background-color: var(--team-bkg-color);
   padding-bottom: 94px;
 }
-.work-title {
-  margin: 0px auto;
-  width: 366px;
-}
+
 .list-work {
   display: flex;
   gap: 30px;
